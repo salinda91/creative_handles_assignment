@@ -1,0 +1,13 @@
+body {
+    background: #4D16BD;
+    background: -webkit-linear-gradient(top right, #4D16BD, #718DA8);
+    background: -moz-linear-gradient(top right, #4D16BD, #718DA8);
+    background: linear-gradient(to bottom left, #4D16BD, #718DA8);
+
+    min-height: 100vh;
+}
+#submit_btn,
+#text_field{
+    border-radius: 25px;
+    outline: none;
+}
